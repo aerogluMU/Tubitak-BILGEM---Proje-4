@@ -1,2 +1,2 @@
-# Tübitak BİLGEM - Proje 3
+# Tübitak BİLGEM - Proje 4
 Lis302dl ivme sensörü kontrolü
